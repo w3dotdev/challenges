@@ -1,11 +1,11 @@
 # Challenges
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![GitHub issues](https://img.shields.io/github/issues/hemersonvianna/challenges.svg)](https://github.com/hemersonvianna/challenges/issues)
-![GitHub Release Date](https://img.shields.io/github/release-date/hemersonvianna/challenges.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/hemersonvianna/challenges.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/hemersonvianna/challenges.svg)
-![GitHub All Releases](https://img.shields.io/github/downloads/hemersonvianna/challenges/total.svg)
+[![GitHub issues](https://img.shields.io/github/issues/w3dotdev/challenges.svg)](https://github.com/w3dotdev/challenges/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/w3dotdev/challenges.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/w3dotdev/challenges.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/w3dotdev/challenges.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/w3dotdev/challenges/total.svg)
 
 ## Summary
 
@@ -21,7 +21,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/hemersonvianna/challenges/releases) for detailed changelog.
+Check [Releases](https://github.com/w3dotdev/challenges/releases) for detailed changelog.
 
 ## License
 
